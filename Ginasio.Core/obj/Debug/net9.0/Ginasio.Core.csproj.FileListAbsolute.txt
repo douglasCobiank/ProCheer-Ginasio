@@ -1,0 +1,15 @@
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Core/bin/Debug/net9.0/Ginasio.Core.deps.json
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Core/bin/Debug/net9.0/Ginasio.Core.dll
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Core/bin/Debug/net9.0/Ginasio.Core.pdb
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Core/bin/Debug/net9.0/Ginasio.Infrastructure.dll
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Core/bin/Debug/net9.0/Ginasio.Infrastructure.pdb
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Core/obj/Debug/net9.0/Ginasio.Core.csproj.AssemblyReference.cache
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Core/obj/Debug/net9.0/Ginasio.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Core/obj/Debug/net9.0/Ginasio.Core.AssemblyInfoInputs.cache
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Core/obj/Debug/net9.0/Ginasio.Core.AssemblyInfo.cs
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Core/obj/Debug/net9.0/Ginasio.Core.csproj.CoreCompileInputs.cache
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Core/obj/Debug/net9.0/Ginasio..7E16076A.Up2Date
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Core/obj/Debug/net9.0/Ginasio.Core.dll
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Core/obj/Debug/net9.0/refint/Ginasio.Core.dll
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Core/obj/Debug/net9.0/Ginasio.Core.pdb
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Core/obj/Debug/net9.0/ref/Ginasio.Core.dll

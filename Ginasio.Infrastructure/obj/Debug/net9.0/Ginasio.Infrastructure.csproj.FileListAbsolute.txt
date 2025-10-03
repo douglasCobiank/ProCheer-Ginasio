@@ -1,0 +1,14 @@
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Infrastructure/bin/Debug/net9.0/Ginasio.Infrastructure.deps.json
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Infrastructure/bin/Debug/net9.0/Ginasio.Infrastructure.runtimeconfig.json
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Infrastructure/bin/Debug/net9.0/Ginasio.Infrastructure.dll
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Infrastructure/bin/Debug/net9.0/Ginasio.Infrastructure.pdb
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Infrastructure/obj/Debug/net9.0/Ginasio.Infrastructure.csproj.AssemblyReference.cache
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Infrastructure/obj/Debug/net9.0/Ginasio.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Infrastructure/obj/Debug/net9.0/Ginasio.Infrastructure.AssemblyInfoInputs.cache
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Infrastructure/obj/Debug/net9.0/Ginasio.Infrastructure.AssemblyInfo.cs
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Infrastructure/obj/Debug/net9.0/Ginasio.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Infrastructure/obj/Debug/net9.0/Ginasio.Infrastructure.dll
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Infrastructure/obj/Debug/net9.0/refint/Ginasio.Infrastructure.dll
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Infrastructure/obj/Debug/net9.0/Ginasio.Infrastructure.pdb
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Infrastructure/obj/Debug/net9.0/Ginasio.Infrastructure.genruntimeconfig.cache
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Infrastructure/obj/Debug/net9.0/ref/Ginasio.Infrastructure.dll

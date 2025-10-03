@@ -1,0 +1,11 @@
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Api/obj/Debug/net9.0/Ginasio.Api.csproj.AssemblyReference.cache
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Api/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Api/obj/Debug/net9.0/Ginasio.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Api/obj/Debug/net9.0/Ginasio.Api.AssemblyInfoInputs.cache
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Api/obj/Debug/net9.0/Ginasio.Api.AssemblyInfo.cs
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Api/obj/Debug/net9.0/Ginasio.Api.csproj.CoreCompileInputs.cache
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Api/obj/Debug/net9.0/Ginasio.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Api/obj/Debug/net9.0/Ginasio.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Api/obj/Debug/net9.0/Ginasio.Api.dll
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Api/obj/Debug/net9.0/refint/Ginasio.Api.dll
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Api/obj/Debug/net9.0/Ginasio.Api.pdb
