@@ -13,3 +13,4 @@
 /Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Core/obj/Debug/net9.0/refint/Ginasio.Core.dll
 /Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Core/obj/Debug/net9.0/Ginasio.Core.pdb
 /Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Core/obj/Debug/net9.0/ref/Ginasio.Core.dll
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Core/obj/Debug/net9.0/Ginasio.Core.sourcelink.json

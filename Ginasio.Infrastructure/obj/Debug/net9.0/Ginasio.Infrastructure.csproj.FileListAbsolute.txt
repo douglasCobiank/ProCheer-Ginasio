@@ -12,3 +12,4 @@
 /Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Infrastructure/obj/Debug/net9.0/Ginasio.Infrastructure.pdb
 /Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Infrastructure/obj/Debug/net9.0/Ginasio.Infrastructure.genruntimeconfig.cache
 /Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Infrastructure/obj/Debug/net9.0/ref/Ginasio.Infrastructure.dll
+/Users/douglascobiank/ProChamp/Backend/Ginasio/Ginasio.Infrastructure/obj/Debug/net9.0/Ginasio.Infrastructure.sourcelink.json

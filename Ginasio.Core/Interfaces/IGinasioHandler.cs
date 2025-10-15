@@ -10,5 +10,6 @@ namespace Ginasio.Core.Interfaces
         Task DeletaGinasioAsync(int id);
         Task<GinasioDto> BuscaGinasioPorNomeAsync(string nome);
         Task AdicionaLogoGinasioAsync(int id, string imagemBytes);
+        Task<GinasioDto> GetGinasioPorIdAsync(int id);
     }
 }

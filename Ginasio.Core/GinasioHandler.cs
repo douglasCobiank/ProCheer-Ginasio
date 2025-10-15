@@ -35,5 +35,10 @@ namespace Ginasio.Core
         {
             await _ginasioService.AdicionaLogoGinasioAsync(id, imagemBytes);
         }
+
+        public async Task<GinasioDto> GetGinasioPorIdAsync(int id)
+        {
+            return await _ginasioService.BuscaGinasioPorId(id);
+        }
     }
 }

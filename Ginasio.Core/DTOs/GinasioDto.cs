@@ -8,6 +8,7 @@ namespace Ginasio.Core.DTOs
 {
     public class GinasioDto
     {
+        public int Id { get; set; }
         public string Nome { get; set; } = "";
         public EnderecoDto Endereco { get; set; } = new EnderecoDto();
         public string Responsavel { get; set; } = "";

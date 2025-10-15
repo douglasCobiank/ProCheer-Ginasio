@@ -62,5 +62,11 @@ namespace Ginasio.Core.Services
                 await _ginasioRepository.EditAsync(ginasioResult);
             }
         }
+    
+        public async Task<GinasioDto> BuscaGinasioPorId(int id)
+        {
+            var result = _ginasioRepository.GetByIdAsync(id).Result;
+            return _mapper.Map<GinasioDto>(result);
+        }
     }
 }

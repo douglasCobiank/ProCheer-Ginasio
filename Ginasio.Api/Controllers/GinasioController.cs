@@ -47,10 +47,18 @@ namespace Ginasio.Api.Controllers
             return Ok(new[] { response });
         }
 
-        [HttpPost("buscar-ginasio/{nome}")]
+        [HttpPost("buscar-ginasio-por-nome/{nome}")]
         public async Task<IActionResult> BuscarGinasios(string nome)
         {
             var response = await _ginasioHandler.BuscaGinasioPorNomeAsync(nome);
+
+            return Ok(new[] { response });
+        }
+
+        [HttpPost("buscar-ginasio-por-id/{id}")]
+        public async Task<IActionResult> BuscarGinasioPorId(int id)
+        {
+            var response = await _ginasioHandler.GetGinasioPorIdAsync(id);
 
             return Ok(new[] { response });
         }
