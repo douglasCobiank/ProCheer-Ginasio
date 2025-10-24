@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ginasio.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb550be22c0dd30707663030b603b958a64227f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ba4de9acc5f7448d1422073dbeb55039f76fc84")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ginasio.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ginasio.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
